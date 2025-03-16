@@ -1,0 +1,31 @@
+id,Type,Flavor,Filling,Size,Layers,Frosting Type,Frosting Flavor,Decoration Type,Decoration Color,Custom Message
+1,Cake,Vanilla,Chocolate Mousse,Large,4,Buttercream,Vanilla,Candied Nuts,Brown,Happy Birthday!
+2,Cupcake,Lemon,Raspberry Jam,Small,1,Whipped Cream,Lemon,Edible Flowers,Yellow,Have a Great Day!
+3,Cake,Chocolate,Peanut Butter,Medium,3,Fondant,Chocolate,Gold Leaf,Gold,Best Wishes!
+4,Cupcake,Strawberry,Cheesecake,Small,1,Buttercream,Strawberry,Sprinkles,Pink,Enjoy Your Treat!
+5,Cake,Coconut,Mango Cream,Large,3,Whipped Cream,Coconut,Toasted Coconut,White,Congratulations!
+6,Cupcake,Mocha,Caramel,Small,1,Fondant,Mocha,Chocolate Drizzle,Dark Brown,Cheers!
+7,Cake,Red Velvet,White Chocolate,Medium,2,Buttercream,Vanilla,Heart Shapes,Red,Love You!
+8,Cupcake,Almond,Cherry Jam,Small,1,Whipped Cream,Almond,Silver Dust,Silver,You Rock!
+9,Cake,Carrot,Maple Cream,Large,3,Fondant,Cinnamon,Sugar Carrots,Orange,Stay Sweet!
+10,Cupcake,Blueberry,Lemon Curd,Small,1,Buttercream,Blueberry,Shredded Coconut,Blue,Smile Always!
+11,Cake,Pistachio,Honey Cream,Medium,2,Buttercream,Pistachio,Edible Gold Flakes,Green,Thank You!
+12,Cupcake,Peach,Vanilla Custard,Small,1,Whipped Cream,Peach,Drizzled Honey,Golden,Enjoy!
+13,Cake,Marble,Raspberry Ganache,Large,4,Fondant,Chocolate,Fruit Toppings,Multicolor,You're Special!
+14,Cupcake,Matcha,Black Sesame,Small,1,Buttercream,Matcha,Gold Leaf,Green,Great Job!
+15,Cake,Funfetti,Cream Cheese,Medium,3,Whipped Cream,Vanilla,Rainbow Sprinkles,Multicolor,Let's Celebrate!
+16,Cupcake,Hazelnut,Nutella,Small,1,Fondant,Hazelnut,Crushed Nuts,Brown,Delicious!
+17,Cake,Banana,Peanut Butter,Large,2,Buttercream,Banana,Chocolate Shavings,Dark Brown,Bon Appétit!
+18,Cupcake,Rose,Pistachio Cream,Small,1,Whipped Cream,Rose,Petals,Pink,Stay Awesome!
+19,Cake,Orange,White Chocolate,Medium,3,Fondant,Orange,Zested Peel,Orange,Welcome Home!
+20,Cupcake,Raspberry,Cheesecake,Small,1,Buttercream,Raspberry,Sugar Pearls,Red,Just for You!
+21,Cake,Mint,Dark Chocolate,Large,4,Whipped Cream,Mint,Chocolate Curls,Green,Refreshing Treat!
+22,Cupcake,Tiramisu,Mascarpone,Small,1,Fondant,Coffee,Cocoa Dust,Brown,For You!
+23,Cake,Cherry,Vanilla Mousse,Medium,3,Buttercream,Cherry,Cherry Glaze,Red,All the Best!
+24,Cupcake,Gingerbread,Cinnamon Cream,Small,1,Whipped Cream,Ginger,Cookie Crumbs,Brown,Festive Delight!
+25,Cake,Black Forest,Cherry Filling,Large,3,Fondant,Chocolate,Chocolate Shavings,Dark Brown,Special Day!
+26,Cupcake,Cranberry,Orange Cream,Small,1,Buttercream,Cranberry,Sugar Crystals,Red,Enjoy Every Bite!
+27,Cake,Maple,Walnut Cream,Medium,2,Whipped Cream,Maple,Caramel Drizzle,Golden,Delightful Taste!
+28,Cupcake,Watermelon,Lime Cream,Small,1,Buttercream,Watermelon,Mini Fruits,Green,Fresh & Sweet!
+29,Cake,Mango,Coconut Cream,Large,3,Fondant,Mango,Mango Slices,Yellow,Paradise Treat!
+30,Cupcake,Pineapple,Rum Cream,Small,1,Whipped Cream,Pineapple,Toasted Coconut,Golden,Tropical Bliss!
